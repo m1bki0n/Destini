@@ -1,5 +1,7 @@
 #  Destini App
 
+![App GIF](Documentation/Destini.gif)
+
 ## What is this app?
 
 
